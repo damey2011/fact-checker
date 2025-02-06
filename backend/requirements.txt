@@ -1,0 +1,11 @@
+fastapi==0.115.7
+uvicorn==0.34.0
+openai==1.60.2
+pydantic==2.10.6
+python-dotenv==1.0.1
+langchain==0.3.16
+langchain-community==0.3.16
+langchain-core==0.3.32
+langchain-openai==0.3.2
+sqlalchemy==2.0.27
+tldextract==5.1.1
